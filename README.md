@@ -20,6 +20,7 @@ Normal
 Benign
 Malignant
 
- 
+ <img width="949" height="479" alt="{D67D9EF2-0E70-4E17-9F16-8E263297B1F0}" src="https://github.com/user-attachments/assets/844bafce-ec9e-4d3a-adfd-e9c87117961d" />
+
 
  
